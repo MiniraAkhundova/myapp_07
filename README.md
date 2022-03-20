@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Repository A
+=======
+Repository B
+>>>>>>> 77c037b (commit for rep_B)
 Task 7: Understand when conflicts occur and what is conflicts resolution in git
 a) read about conflicts in git repos
 b) simulate a conflict
